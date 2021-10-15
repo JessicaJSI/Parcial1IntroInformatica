@@ -1,0 +1,7 @@
+cp permite copiar un archivo, grupo de archivos o directorio, creando una
+imagen exacta en el disco de esa información.
+este comando siempre requiere dos parametros, el archivo a copiar y el
+destino
+
+Un ejemplo de su uso es:
+cp archivo.txt archivo2.txt
